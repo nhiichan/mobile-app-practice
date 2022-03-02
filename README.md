@@ -1,2 +1,2 @@
 # mobile-app-practice
- Nơi để luyện tập và trưởng thành cùng Mobile App (và hành)
+ Bài 1: Responsive: 28/02 - 02/03
